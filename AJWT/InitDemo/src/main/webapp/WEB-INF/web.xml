@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<web-app>
+
+
+-<servlet>
+
+<servlet-name>reqpara</servlet-name>
+
+<servlet-class>MyServletDemo</servlet-class>
+
+</servlet>
+
+
+-<servlet-mapping>
+
+<servlet-name>reqpara</servlet-name>
+
+<url-pattern>/details</url-pattern>
+
+</servlet-mapping>
+
+</web-app>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="mobile">
+  <header>
+    <nav>
+      <a href="">❮</a>
+      <img src="https://he-s3.s3.amazonaws.com/media/avatars/abhinandan.lip/resized/180/photo.jpg" alt="">
+    </nav>
+  </header>
+
+  <section class="result card">
+    <h2>Result</h2>
+    <p class="subtitle">2011 WC Final ODI</p>
+    <div class="team loser">
+      <img src="https://cdn3.iconfinder.com/data/icons/worldcup-squad-2015/512/Srilanka.png" alt="srilanka">
+      <span>Sri Lanka</span>
+      <div class="score">
+        <div class="runs">274/6</div>
+        <div class="overs">(50 ov)</div>
+      </div>
+    </div>
+    <div class="vs"><span>vs</span></div>
+    <div class="team winner">
+      <img src="https://i7.pngguru.com/preview/440/155/707/flag-of-india-round-india-flag-png-transparent-clip-art-image.jpg" alt="srilanka">
+      <span>India</span>
+      <div class="score">
+        <div class="runs">277/4</div>
+        <div class="overs">(target 275, 48.2/50 ov)</div>
+      </div>
+    </div>
+    <p class="summary-text">India won by 6 wickets (with 10 balls remaining)</p>
+  </section>
+
+  <section class="live">
+    <menu class="card">
+      <button class="active">Live</button>
+      <button>Scorecard</button>
+      <button>Report</button>
+    </menu>
+
+    <table class="card">
+      <thead>
+        <tr>
+          <th>Batsman</th>
+          <th>R</th>
+          <th>B</th>
+          <th>4s</th>
+          <th>6s</th>
+          <th>SR</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>MS Dhoni (c) †</td>
+          <td>91</td>
+          <td>79</td>
+          <td>8</td>
+          <td>2</td>
+          <td>115.2</td>
+        </tr>
+        <tr>
+          <td>Yuvraj</td>
+          <td>21</td>
+          <td>24</td>
+          <td>2</td>
+          <td>0</td>
+          <td>87.5</td>
+        </tr>
+      </tbody>
+      <thead>
+        <tr>
+          <th>Bowler</th>
+          <th>O</th>
+          <th>M</th>
+          <th>R</th>
+          <th>W</th>
+          <th>Eco</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Kulasekara</td>
+          <td>8.2</td>
+          <td>0</td>
+          <td>64</td>
+          <td>0</td>
+          <td>8.1</td>
+        </tr>
+        <tr>
+          <td>Malinga</td>
+          <td>9</td>
+          <td>0</td>
+          <td>42</td>
+          <td>2</td>
+          <td>4.6</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="pom card">
+    <h2>Player Of The Match</h2>
+    <img src="https://www.cricket.com.au/-/media/Players/Men/International/India/ODIWC19/MS-Dhoni-CWC19.ashx" alt="ms dhoni">
+    <p class="name"><strong>MS Dhoni</strong></p>
+    <p>India</p>
+  </section>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+<!DOCTYPE crytoname
+[
+<!ELEMENT crytoname (title)>
+<!ELEMENT title (name,price,marketcap)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT marketcap (#PCDATA)>
+<!ATTLIST title id ID #REQUIREDs>
+]>

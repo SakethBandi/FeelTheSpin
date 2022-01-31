@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<price_marketcap>
+<crypt>
+    <name>Bitcoin BTC</name>
+    <price>$39,885.15</price>
+    <marketcap>$738,433,904,476</marketcap>
+</crypt>
+<crypt>
+   <name>Ethereum ETH</name>
+    <price>$2,684.42</price>
+    <marketcap>$305,748,011,246</marketcap>
+</crypt>
+<crypt>
+    <name>Tether USDT</name>
+    <price>$1.00</price>
+    <marketcap>$58,627,152,321</marketcap>
+</crypt>
+<crypt>
+    <name>Binance Coin BNB</name>
+    <price>$377.91</price>
+    <marketcap>$57,818,865,221</marketcap>
+</crypt>
+<crypt>
+    <name>Cardano ADA</name>
+    <price>$1.71</price>
+    <marketcap>$53,740,264,817</marketcap>
+</crypt>
+</price_marketcap>
